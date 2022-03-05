@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/patientData/static/css/main.86b5a522.css",
-    "main.js": "/patientData/static/js/main.b0d0d571.js",
+    "main.js": "/patientData/static/js/main.ae723587.js",
     "index.html": "/patientData/index.html",
     "main.86b5a522.css.map": "/patientData/static/css/main.86b5a522.css.map",
-    "main.b0d0d571.js.map": "/patientData/static/js/main.b0d0d571.js.map"
+    "main.ae723587.js.map": "/patientData/static/js/main.ae723587.js.map"
   },
   "entrypoints": [
     "static/css/main.86b5a522.css",
-    "static/js/main.b0d0d571.js"
+    "static/js/main.ae723587.js"
   ]
 }
